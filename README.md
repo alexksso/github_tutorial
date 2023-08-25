@@ -1,4 +1,4 @@
-# github_tutorial
+# Croissant Gang Gang
 tutorial day
 
 ## Description
@@ -8,6 +8,3 @@ Actually we should find something cool to make it do!
 
 ok fine here are more details
 
-##Project Name
-
-Croissant Gang Gang
